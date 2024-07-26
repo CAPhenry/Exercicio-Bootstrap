@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ #carCarousel {
+    height: 500px; /* Defina a altura desejada aqui */
+   
+}
+
+.carousel-inner{
+    width: 100%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item{
+    height: 500px; /* Defina a altura desejada aqui */
+
+}
+
+
+.carousel-item img{
+    height: 100%; 
+}
